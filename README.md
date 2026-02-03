@@ -27,17 +27,17 @@ This project recognizes sign language alphabets (A, B, C) from live webcam input
 ## 📸 Screenshots
 
 ### 🔹 Hand Detection using MediaPipe
-![Hand Detection](screenshots/hand_detection.png)
+![Hand Detection](screenshots/hand%20detection.png)
 
 ---
 
 ### 🔹 Model Training Output
-![Training Output](screenshots/training_output.png)
+![Training Output](screenshots/training%20output.png)
 
 ---
 
 ### 🔹 Live Sign Prediction
-![Live Prediction](screenshots/live_prediction.png)
+![Live Prediction](screenshots/live%20prediction.png)
 
 ---
 
