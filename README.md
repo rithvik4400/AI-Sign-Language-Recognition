@@ -22,8 +22,25 @@ This project recognizes sign language alphabets (A, B, C) from live webcam input
 - **TensorFlow / Keras**
 - **NumPy**
 - **Scikit-learn**
+---
+
+## 📸 Screenshots
+
+### 🔹 Hand Detection using MediaPipe
+![Hand Detection](screenshots/hand_detection.png)
 
 ---
+
+### 🔹 Model Training Output
+![Training Output](screenshots/training_output.png)
+
+---
+
+### 🔹 Live Sign Prediction
+![Live Prediction](screenshots/live_prediction.png)
+
+---
+
 
 ## 📂 Project Structure
 ```text
