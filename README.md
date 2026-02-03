@@ -62,3 +62,11 @@ This project recognizes sign language alphabets (A, B, C) from live webcam input
 ├── .gitignore
 └── README.md**
 **
+----
+---
+
+## ▶️ How to Run the Project
+
+```bash
+pip install -r requirements.txt
+python step6_live_prediction.py
